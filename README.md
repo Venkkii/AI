@@ -1,2 +1,2 @@
 # AI
-OpenAI projects
+Collection of AI projects
